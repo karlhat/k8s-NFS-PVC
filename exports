@@ -1,0 +1,2 @@
+/exports/grafana	*(no_root_squash,rw,async)
+/exports/prometheus	*(no_root_squash,rw,async)
